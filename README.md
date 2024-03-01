@@ -5,7 +5,7 @@
 `i` - Enter insert mode (for inserting text) <br>
 `v` - Enter visual mode (for selecting text) <br>
 `:` - Enter command mode <br>
-`ESC` - Enter command mode
+`esc` - Enter command mode
 
 ## Cursor Movement
 
@@ -17,3 +17,21 @@
 `w` - Jump forwards to the start of a word <br>
 `e` - Jump forwards to the end of a word <br>
 `b` - Jump backwards to the start of a word <br>
+`ge` - Jump backwards to the end of a word <br>
+
+## Editing
+
+`x` - Cut the current character <br>
+`d` - Delete a single character <br>
+`dw` - Delete the rest of a word \[Delete Word\] <br>
+`diw` - Delete word \[Delete In Word\] <br>
+
+`y` - Copy \[Yank\] <br>
+`p` - Paste <br>
+`r` - Replace a single character <br>
+`u` - Undo <br>
+`ctrl + r` - Redo <br>
+
+## File Operations
+
+``
