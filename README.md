@@ -1,4 +1,4 @@
-# vim-cheatsheet
+# VIM-CheatSheet
 
 ## Mode Switching
 
@@ -34,4 +34,7 @@
 
 ## File Operations
 
-``
+`:w` - Save \[Write\] <br>
+`:q` - Quit <br>
+`:wq` - Save & Quit \[Write & Quit\] <br>
+`:q!` - Quit without saving <br>
