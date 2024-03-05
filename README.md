@@ -5,7 +5,7 @@
 `i` - Enter insert mode (for inserting text) <br>
 `v` - Enter visual mode (for selecting text) <br>
 `:` - Enter command mode <br>
-`esc` - Enter command mode
+`esc` - Enter normal mode
 
 ## Cursor Movement
 
