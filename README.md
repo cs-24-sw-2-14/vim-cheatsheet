@@ -23,7 +23,10 @@
 
 `x` - Cut the current character <br>
 
-> **Delete `d`** <br> > `w` - Delete the rest of a word \[Delete Word\] <br> > `$` - Delete the rest of a line <br> > `iw` - Delete word \[Delete In Word\] <br>
+> **Delete `d`** <br>
+> `w` - Delete the rest of a word \[Delete Word\] <br>
+> `$` - Delete the rest of a line <br>
+> `iw` - Delete word \[Delete In Word\] <br>
 
 `A` - Append text
 
