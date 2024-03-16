@@ -22,9 +22,10 @@
 ## Editing
 
 `x` - Cut the current character <br>
-`d` - Delete a single character <br>
-`dw` - Delete the rest of a word \[Delete Word\] <br>
-`diw` - Delete word \[Delete In Word\] <br>
+
+> **Delete `d`** <br> > `w` - Delete the rest of a word \[Delete Word\] <br> > `$` - Delete the rest of a line <br> > `iw` - Delete word \[Delete In Word\] <br>
+
+`A` - Append text
 
 `y` - Copy \[Yank\] <br>
 `p` - Paste <br>
