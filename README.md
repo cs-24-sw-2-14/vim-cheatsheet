@@ -39,6 +39,14 @@
 ## File Operations
 
 `:w` - Save \[Write\] <br>
+`:wa` - Save all \[Write\] <br>
 `:q` - Quit <br>
+`:qa` - Quit all without saving <br>
 `:wq` - Save & Quit \[Write & Quit\] <br>
 `:q!` - Quit without saving <br>
+
+
+
+
+
+
